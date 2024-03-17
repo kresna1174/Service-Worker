@@ -1,0 +1,28 @@
+body {
+    margin: 0;
+    padding: 0;
+    overflow-y: hidden;
+}
+
+.container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh; /* 100% tinggi viewport */
+}
+
+.centered {
+    padding: 20px;
+}
+
+.text-white {
+    color: #fff !important;
+}
+
+.bg-black {
+    background: #0f0f0f;
+}
+
+.text-center {
+    text-align: center;
+}
